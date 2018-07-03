@@ -571,6 +571,7 @@ p {
 }
 canvas#demo-canvas {
     background: linear-gradient(215deg, rgba(37, 38, 40, 0.8) 0%, rgba(13, 12, 13, 0.8) 100%);
+}
 /*
  * Magnific
  *----------*/
