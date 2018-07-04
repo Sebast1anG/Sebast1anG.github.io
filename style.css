@@ -1018,6 +1018,9 @@ ul .tline-holder>li {
 	content:'+';
 	right:24px;
 }
+.progress{
+	background-color: #cdc8c8 !important;
+}
 .panel {
 	box-shadow:none;
 }
